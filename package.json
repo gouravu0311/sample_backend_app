@@ -1,0 +1,16 @@
+{
+  "name": "backend_thirdlect",
+  "version": "1.0.0",
+  "description": "basics or initial stage of backend study",
+  "license": "ISC",
+  "author": "",
+ 
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
